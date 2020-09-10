@@ -7,9 +7,7 @@
 * Metric Used : Area Under the ROC curve
 * Technique : Anomaly Detection 
 
-This is a classic example to practice anomaly detection . I have followed the steps from Andrew NG's machine learning tutorial for anomaly detection .
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/086OcT-5DYI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+This is a classic example to practice anomaly detection . I have followed the steps from Andrew NG's machine learning tutorial for anomaly detection (https://youtu.be/086OcT-5DYI)
 
 ## Implementation Notes
 
